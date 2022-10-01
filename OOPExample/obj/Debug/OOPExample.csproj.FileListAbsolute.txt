@@ -1,0 +1,8 @@
+C:\Users\pmdev\source\repos\OOPExample\OOPExample\bin\Debug\OOPExample.exe.config
+C:\Users\pmdev\source\repos\OOPExample\OOPExample\bin\Debug\OOPExample.exe
+C:\Users\pmdev\source\repos\OOPExample\OOPExample\bin\Debug\OOPExample.pdb
+C:\Users\pmdev\source\repos\OOPExample\OOPExample\obj\Debug\OOPExample.csproj.AssemblyReference.cache
+C:\Users\pmdev\source\repos\OOPExample\OOPExample\obj\Debug\OOPExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\pmdev\source\repos\OOPExample\OOPExample\obj\Debug\OOPExample.csproj.CoreCompileInputs.cache
+C:\Users\pmdev\source\repos\OOPExample\OOPExample\obj\Debug\OOPExample.exe
+C:\Users\pmdev\source\repos\OOPExample\OOPExample\obj\Debug\OOPExample.pdb
